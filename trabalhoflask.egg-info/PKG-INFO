@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: trabalhoflask
+Version: 1.0
+Summary: Trabalho Final Flask Sistema Controle de Estoque
+Author: <Sandro Oliveira>
+Author-email: <sandro2007am@gmail.com>
+Keywords: web flask
+Requires-Dist: flask
+Requires-Dist: flask-sqlalchemy
+Requires-Dist: psycopg2
